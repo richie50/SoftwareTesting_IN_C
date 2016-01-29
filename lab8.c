@@ -1,5 +1,4 @@
 /*
-*	CSE 23004 
 *	Richmond Frimpong
 */
 #include <stdio.h>
