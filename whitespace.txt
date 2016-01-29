@@ -1,0 +1,4 @@
+    aggregate     class3   class
+inherit class3 class4   
+implement    class3  interface1
+   inherit        class1       class2
